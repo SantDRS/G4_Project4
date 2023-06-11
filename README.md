@@ -158,3 +158,94 @@ Make sure you have the following dependencies installed:
     - Print the final predicted data DataFrame
 14. Proceed to G4_P4_Notebook5_MLvSelectedData to run a model on unique categories only
 15. Output Predictions to csv - The final predicted data DataFrame can be saved as a CSV file using the following pathname: `../G4_Project4/Resources/Insights/predicted_df.csv`.
+
+## G4_P4_Notebook4_MLvSelectedData
+In this Notebook we use a Random Forest Classifier to predict cities and their corresponding activities based on a randomly selected set of categories. The code generates a random sample of 25 categories, predicts the city using the trained classifier, and retrieves the top activities for each category in the predicted city. Each time you run the code it will choose a different random set of categories to make a unique prediction. 
+
+### Prerequisites
+Make sure you have the following dependencies installed:
+- import json
+- import os
+- import pandas as pd
+- import pprint as pp
+- import random
+- import requests
+- import time
+- import warnings
+- warnings.simplefilter("ignore")
+- from sklearn.cluster import KMeans
+- from sklearn.preprocessing import LabelEncoder
+- from sklearn.preprocessing import MinMaxScaler
+- from sklearn.preprocessing import StandardScaler
+- from sklearn.ensemble import RandomForestClassifier
+- from sklearn.model_selection import train_test_split
+
+### Usage
+1. Load Environment
+    - Set up your environment and install the required dependencies.
+    - Import merged_df.csv from notebook 3
+    - Remove columns location and coordinates that we don't need for prediction process & rearrange the columns for easier viewing
+    -Check the .info() for the merged_df 
+2. Process Data
+    - Create city_encoded_data df by copying merged_df
+    - Explode the 'categories' column to create a row for each category listed in categories column
+    - Create label_encoder to encode categories and use in machine learning & Apply label encoding to the 'categories' column
+    - Write out city_encoded_data to csv
+    - Begin filtering city_encoded_data df by city to find the unique categories
+        - Denver
+        - Filter the DataFrame for rows with the city "Denver"
+        - Get the unique categories for Denver
+        - Filter the DataFrame for rows with cities other than "Denver"
+        - Get the unique categories for the other cities
+        - Get the categories that are unique to Denver
+        - Create a DataFrame with the unique categories for Denver
+        - Add city column
+        - Rename unique categories column
+        - Drop Unique Categories for New York
+        - Print the DataFrame
+    - View denver_unique_categories_df info
+    - Repeat Steps 9 & 10 for cities: Miami & New York
+    - Concatenate the DataFrames
+    - View combined_unique_df info
+    - Export combined unique csv
+    - >>>>> The combined_unique_categories.csv was manually scrubbed to keep only the categories that were not so general and more obviously specific to each city. This was done to make it possible for our computers to process all the data. - continue to next step 
+    - Create a filtered df using the selected df as a filter to the categories 
+    - Create the city_category_selected_predict_df
+    - Output Data
+        - Write out city_encoded_data to csv
+3. Random Forest ML Model - All Data - 
+    - Model Creation
+        - Select X & y and reshape df
+        - Split the data into training and test sets
+        - Create and train the Random Forest Classifier
+    - Train & Test Our Model
+        - Fit the training data to the model
+        - Review the accuracy of the model on the training data
+            - Accuracy on training data of : 0.5381600249950294
+        - Fit the test data to the model
+        - Review the accuracy of the model on the test data
+            - Accuracy on training data of : 0.5457850488525335
+    - Predict the City
+        - Generate a random sample of 25 categories. This process is mean to mimic anyone one persons 25 category selection
+        - Create df for random sample
+        - Assign the readable category names based on random sample of the 25 randomly selected categories above
+        - Print the readable categories being used to predict the city
+        - Predict the city based on the random group of 25 categories
+    - List Experiences Within Predicted City
+    - List top 3 experiences for each category within predicted city 
+    - Set to keep track of predicted cities and their activities
+    - Set to keep track of unique experiences
+    - Get the top activities for each sample category
+        - Convert category back to its name
+        - Create a new activities_data list for each category iteration
+        - Create for loop to iterrow over top_activities
+            - Create a unique experience key
+            - Check if the experience is unique
+            - Create if not in statement to select only unique experiences
+                - Add the experience to the set of unique experiences
+                - Append the predicted activity to the list
+    - Append the activities_data to the predicted_data list for each category
+    - Create a DataFrame from the predicted data
+    - Print the final predicted data DataFrame
+4. Output Predictions to csv - The final predicted data DataFrame can be saved as a CSV file using the following pathname: `../G4_Project4/Resources/Insights/predicted_df.csv`.
+5. The End of Notebook Model Prep & Processing. Final notebook G4_P4_Notebook6_VisualizationData is only for preparing data formats for visualizations.
