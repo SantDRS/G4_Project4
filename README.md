@@ -70,3 +70,25 @@ Make sure you have the following dependencies installed:
 6. Once the city column is added we reorder the columns in a way that best represents the data.
 7. Now that the data frame is structured we can export it to a folder as a csv. To do that we create a file path to the desired end location, convert the data frame into a CSV and export it using the path created.
 8. Rinse and repeat steps 1-6 for Miami and New York.
+
+## G4_P4_Notebook3_DataProcessing
+In this notebook we bring in the previously created data frames for each city and merge them into one single data frame.
+
+### Prerequisites
+Make sure you have the following dependencies installed:
+- import json
+- import os
+- import pandas as pd
+- import pprint as pp
+- import requests
+- import time
+
+### Usage
+1. Set up your environment and install the required dependencies.
+2. In the first 3 cells after setting up your dependencies, we create a path to the folder housing the csv files just created and read them in. 
+3. Using the .info() function on each city’s respective dataframe, we make sure the dtypes match up for each column in each city’s df.
+4. We then use the .explode(), and .unique() functions to find the unique categories within each city. 
+5. We then use the .concat() function to merge all 3 data frames into one data frame named merged_df
+6. Once again, we use the .explode(), and .unique() functions to find the unique categories within the merged data frame.
+7. Now that the data frames have been merged we can export merged_df to a folder as a csv. To do that we create a file path to the desired end location, convert the data frame into a CSV and export it using the path created.
+
