@@ -156,7 +156,5 @@ Make sure you have the following dependencies installed:
         - Append the activities_data to the predicted_data list for each category
     - Create a DataFrame from the predicted data
     - Print the final predicted data DataFrame
-14. Output Predictions to csv: Example Output Snippet
-
-15. Proceed to G4_P4_Notebook5_MLvSelectedData to run a model on unique categories only
-16. Output Predictions to csv - The final predicted data DataFrame can be saved as a CSV file using the following pathname: `../G4_Project4/Resources/Insights/predicted_df.csv`.
+14. Proceed to G4_P4_Notebook5_MLvSelectedData to run a model on unique categories only
+15. Output Predictions to csv - The final predicted data DataFrame can be saved as a CSV file using the following pathname: `../G4_Project4/Resources/Insights/predicted_df.csv`.
