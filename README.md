@@ -159,7 +159,7 @@ Make sure you have the following dependencies installed:
 14. Proceed to G4_P4_Notebook5_MLvSelectedData to run a model on unique categories only
 15. Output Predictions to csv - The final predicted data DataFrame can be saved as a CSV file using the following pathname: `../G4_Project4/Resources/Insights/predicted_df.csv`.
 
-## G4_P4_Notebook4_MLvSelectedData
+## G4_P4_Notebook5_MLvSelectedData
 In this Notebook we use a Random Forest Classifier to predict cities and their corresponding activities based on a randomly selected set of categories. The code generates a random sample of 25 categories, predicts the city using the trained classifier, and retrieves the top activities for each category in the predicted city. Each time you run the code it will choose a different random set of categories to make a unique prediction. 
 
 ### Prerequisites
@@ -249,3 +249,26 @@ Make sure you have the following dependencies installed:
     - Print the final predicted data DataFrame
 4. Output Predictions to csv - The final predicted data DataFrame can be saved as a CSV file using the following pathname: `../G4_Project4/Resources/Insights/predicted_df.csv`.
 5. The End of Notebook Model Prep & Processing. Final notebook G4_P4_Notebook6_VisualizationData is only for preparing data formats for visualizations.
+
+## G4_P4_Notebook6_VisualizationData
+In this notebook we restructure the data frames to bring back in location and coordinate data to bring in visualizations to create in tableau. 
+### Prerequisites
+Make sure you have the following dependencies installed:
+-import json
+-import pandas as pd
+-import pprint as pp
+
+### Usage
+Set up your environment and install the required dependencies.
+Import merged_df that was created in notebook 3.
+ Process and organize the merged_df. You will insert a list using, city, name, rating, review count, categories, location, and coordinates.
+Used merged_df.info to show the dtypes
+Make a copy of the merged data frame and name it vr_data
+Explode the categories column so that each category is in its own column
+Convert the string coordinates to dictionaries 
+Split the coordinates column into latitude and longitude. Coordinates will now have both a latitude and longitude row.
+
+![Screen Shot 2023-06-11 at 2 30 39 PM](https://github.com/SantDRS/G4_Project4/assets/120337088/2c121b04-3e19-4748-b1cf-53741fbd825d)
+
+
+
