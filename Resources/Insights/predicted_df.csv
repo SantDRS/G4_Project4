@@ -1,42 +1,58 @@
 Sample Category,Predicted City,Experience Name,Rating,Review Count
-Breweries,Denver,Launch Pad Brewery,5.0,165
-Breweries,Denver,Brewability & Pizzability ,5.0,99
-Burgers,Denver,Uptown & Humboldt,5.0,60
-Burgers,Denver,Hamburguesas Don Jesus,5.0,37
-Music Venues,Denver,Modern Brew,5.0,42
-Spanish,Denver,Rioja,4.5,2637
-Juice Bars & Smoothies,Denver,MyKings Ice Cream,5.0,54
-Juice Bars & Smoothies,Denver,Pho Hong,5.0,52
-Mexican,Denver,Xicamiti La Taquería Bistro,5.0,624
-Mexican,Denver,Tacos Aya Yay,5.0,246
-Mexican,Denver,el consome de morelos,5.0,50
-Pizza,Denver,Brewability & Pizzability ,5.0,99
-Boat Charters,Denver,Colorado Boat Rentals,1.0,1
-American (New),Denver,Mr. Miner's Meat and Cheese,5.0,27
-American (New),Denver,The Basketball Social House | B-Ball Games,5.0,4
-Bars,Denver,ZOMO Asian + American Eatery,5.0,345
-Italian,Denver,Pomodoro Pizza Pasta,5.0,43
-Italian,Denver,Postino Boulder,5.0,36
-Mediterranean,Denver,Gyroz,5.0,10
-Mediterranean,Denver,FelFel Mediterranean,4.5,1073
-Mediterranean,Denver,Safta,4.5,722
-Tacos,Denver,Venalonzo's,5.0,170
-Tacos,Denver,Taco Choi,5.0,67
-Tacos,Denver,Pato's Tacos,5.0,43
-Dance Studios,Denver,Wedding Dance Coach,5.0,50
-Dance Studios,Denver,BLOCK21 Fitness,5.0,33
-Dance Studios,Denver,TM Ballroom Dance Studio,5.0,19
-Sports Bars,Denver,One Shot Back,5.0,20
-Beer Bar,Denver,Red Rocks Beer Garden,5.0,96
-Sandwiches,Denver,Tokyo Premium Bakery,5.0,406
-Sandwiches,Denver,European Market,5.0,136
-Empanadas,Denver,Rincon Argentino,4.5,764
-Empanadas,Denver,Maria Empanada,4.5,663
-DJs,Denver,Sound Master Entertainment,5.0,7
-DJs,Denver,A Touch of Class Music,5.0,4
-DJs,Denver,Moments Notice Entertainment,5.0,3
-Performing Arts,Denver,Custom Singing Telegrams,5.0,27
-Performing Arts,Denver,TM Ballroom Dance Studio,5.0,19
-Parks,Denver,Ketring Park,5.0,7
-Parks,Denver,Highline Park,5.0,3
-Parks,Denver,Tallman Meadow Park,5.0,2
+Batting Cages,Miami,Swing Kings,5.0,1
+Batting Cages,Miami,AllGolf at CB Smith,3.5,83
+Batting Cages,Miami,Batter's Box - Miami,2.5,15
+Hookah Bars,Miami,Red Buddha Bar & Hookah Lounge,5.0,20
+Hookah Bars,Miami,SoBe Hookah Lounge At Zoi,5.0,6
+Hookah Bars,Miami,Sports Tobacco And More,5.0,6
+"Beer, Wine & Spirits",Miami,Primo Liquors Fine Wine and Cigars,5.0,106
+Italian,Miami,Fratellino,5.0,1589
+Italian,Miami,Mimmo's Mozzarella Italian Market,5.0,154
+Italian,Miami,Rosalia's Kitchen,5.0,113
+Cajun/Creole,Miami,Cajun Boil,4.5,907
+Cajun/Creole,Miami,The Fatty Crab,4.5,412
+Beaches,Miami,Beach and Beyond Picnics,5.0,1
+Beaches,Miami,Haulover Park,4.5,299
+Beaches,Miami,South Pointe Park,4.5,268
+Art Museums,Miami,Musart Boutique,5.0,1
+Art Museums,Miami,Buick Building,5.0,1
+Gastropubs,Miami,Ceviches by Divino,5.0,486
+Gastropubs,Miami,Ceviches Peru Beach,5.0,16
+Gastropubs,Miami,Garden Gastropub,5.0,1
+Parks,Miami,Peace Mound Park,5.0,12
+Parks,Miami,Bill Sadowski Park and Nature Center,5.0,8
+Parks,Miami,Dr Elizabeth Hays Civic Park,5.0,4
+Trainers,Miami,Demetrios Demetriades,5.0,30
+Trainers,Miami,MindBodyDrive In Home Personal Trainer,5.0,15
+Trainers,Miami,Miami Strength And Fitness Club,5.0,13
+Tapas/Small Plates,Miami,LUR,5.0,34
+Tapas/Small Plates,Miami,Pretty Swell,5.0,18
+Tapas/Small Plates,Miami,W XYZ Bar,5.0,3
+Cocktail Bars,Miami,Swizzle Rum Bar & Drinkery,5.0,139
+Cocktail Bars,Miami,Rosalia's Kitchen,5.0,113
+Chicken Wings,Miami,Chernowings,5.0,2
+Chicken Wings,Miami,JT's Sports Bar & Grill,4.5,345
+Japanese,Miami,Momi Market,5.0,36
+Japanese,Miami,Petite Comite,5.0,21
+Japanese,Miami,Kami-koi sushi fusion,5.0,11
+Fishing,Miami,Everglades Nature Tours,5.0,140
+Fishing,Miami,Mack's Fish Camp,5.0,28
+Fishing,Miami,Lady Helen Fishing Charters,5.0,19
+Breakfast & Brunch,Miami,Pikadiyo,5.0,54
+Breakfast & Brunch,Miami,Gala Restaurant & Muse Bar,5.0,13
+Music Venues,Miami,Julia & Henry's,5.0,13
+American (New),Miami,Bolay,5.0,222
+American (New),Miami,Thank You Miami Cocina & Beerhouse,5.0,60
+Bars,Miami,Thank You Miami Cocina & Beerhouse,5.0,60
+Bars,Miami,Julia & Henry's,5.0,13
+Art Galleries,Miami,Art Express Miami by Anwar,5.0,33
+Art Galleries,Miami,Gumbo Limbo Pottery,5.0,15
+Barbeque,Miami,Meat The Veggies,5.0,7
+Barbeque,Miami,BarBQban,5.0,3
+Barbeque,Miami,La Picaña Grill ,5.0,2
+Ramen,Miami,Good Chef Restaurant,5.0,459
+Ramen,Miami,Yume Ramen & Bubble Tea,5.0,7
+Ramen,Miami,GoBistro,4.5,1752
+Ice Cream & Frozen Yogurt,Miami,Morelia Ice Cream Paletas - Coconut Grove,5.0,44
+Ice Cream & Frozen Yogurt,Miami,Morelia Gourmet Paletas - Coral Gables,4.5,449
+Ice Cream & Frozen Yogurt,Miami,Morelia Gourmet Paletas - Wynwood,4.5,236

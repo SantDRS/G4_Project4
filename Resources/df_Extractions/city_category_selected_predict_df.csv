@@ -1,0 +1,351 @@
+city,categories,categories_encoded
+Denver,Local Flavor,348
+Denver,Public Markets,467
+Denver,Brewing Supplies,97
+Denver,Brewing Supplies,97
+Denver,Chiropractors,142
+Denver,Lakes,333
+Denver,Sledding,522
+Denver,Ski Schools,519
+Denver,Disc Golf,192
+Denver,Sports Betting,543
+Denver,Pet Breeders,434
+Denver,Senegalese,506
+Denver,Brewing Supplies,97
+Denver,Knitting Supplies,327
+Denver,Traditional Chinese Medicine,588
+Denver,Cannabis Dispensaries,120
+Denver,Polynesian,450
+Denver,Traditional Chinese Medicine,588
+Denver,Themed Cafes,581
+Denver,Olive Oil,399
+Denver,Brewing Supplies,97
+Denver,Traditional Chinese Medicine,588
+Denver,Pumpkin Patches,471
+Denver,Used Bookstore,598
+Denver,Comic Books,160
+Denver,Meaderies,360
+Denver,Flea Markets,227
+Denver,Somali,528
+Denver,Filipino,221
+Denver,Hot Air Balloons,292
+Denver,RV Rental,473
+Denver,Ski & Snowboard Shops,517
+Denver,Pumpkin Patches,471
+Denver,Ski & Snowboard Shops,517
+Denver,Ski & Snowboard Shops,517
+Denver,Cannabis Dispensaries,120
+Denver,Flea Markets,227
+Denver,"Used, Vintage & Consignment",599
+Denver,Barbers,56
+Denver,Eritrean,208
+Denver,Chiropractors,142
+Denver,Chiropractors,142
+Denver,Chiropractors,142
+Denver,Traditional Chinese Medicine,588
+Denver,Reflexology,482
+Denver,Reflexology,482
+Denver,Traditional Chinese Medicine,588
+Denver,Chiropractors,142
+Denver,Traditional Chinese Medicine,588
+Denver,Traditional Chinese Medicine,588
+Denver,Chiropractors,142
+Denver,Civic Center,150
+Denver,Traditional Chinese Medicine,588
+Denver,Traditional Chinese Medicine,588
+Denver,Senegalese,506
+Denver,Polynesian,450
+Denver,Themed Cafes,581
+Denver,Themed Cafes,581
+Denver,Used Bookstore,598
+Denver,Somali,528
+Denver,Filipino,221
+Denver,Newspapers & Magazines,391
+Denver,Filipino,221
+Denver,Cambodian,117
+Denver,Laotian,337
+Denver,Drama Schools,203
+Denver,Rugs,489
+Denver,Hobby Shops,281
+Denver,Furniture Stores,241
+Denver,Furniture Stores,241
+Denver,Video Game Stores,609
+Denver,Local Flavor,348
+Denver,Hobby Shops,281
+Denver,Furniture Stores,241
+Denver,Gemstones & Minerals,247
+Denver,"Used, Vintage & Consignment",599
+Denver,Reflexology,482
+Denver,Pumpkin Patches,471
+Denver,Paint Stores,407
+Denver,Gemstones & Minerals,247
+Denver,Costumes,169
+Denver,Gemstones & Minerals,247
+Denver,Caricatures,126
+Denver,Pumpkin Patches,471
+Denver,Bingo Halls,78
+Denver,Pumpkin Patches,471
+Denver,Cannabis Dispensaries,120
+Denver,Bingo Halls,78
+Denver,Bingo Halls,78
+Denver,Bingo Halls,78
+Denver,Public Markets,467
+Denver,Pumpkin Patches,471
+Denver,Furniture Stores,241
+Denver,Sports Betting,543
+Denver,Television Stations,575
+Denver,Pumpkin Patches,471
+Denver,Cannabis Dispensaries,120
+Denver,Flea Markets,227
+Denver,"Used, Vintage & Consignment",599
+Denver,Barbers,56
+Denver,Eritrean,208
+Miami,Piercing,442
+Miami,Art Consultants,30
+Miami,Religious Items,484
+Miami,Wedding Chapels,623
+Miami,Piercing,442
+Miami,Piercing,442
+Miami,Animal Shelters,18
+Miami,Resorts,485
+Miami,Piercing,442
+Miami,Herbal Shops,276
+Miami,"Books, Mags, Music & Video",85
+Miami,Snorkeling,525
+Miami,Golf Cart Rentals,256
+Miami,Kiteboarding,326
+Miami,Party Characters,419
+Miami,Bubble Soccer,100
+Miami,Bubble Soccer,100
+Miami,Kiteboarding,326
+Miami,Skate Shops,515
+Miami,Skate Shops,515
+Miami,Snorkeling,525
+Miami,Kiteboarding,326
+Miami,Surf Schools,553
+Miami,Motorcycle Dealers,376
+Miami,Scooter Rentals,498
+Miami,Eyelash Service,212
+Miami,Parasailing,413
+Miami,Diving,197
+Miami,Parasailing,413
+Miami,Snorkeling,525
+Miami,Surf Schools,553
+Miami,Skydiving,521
+Miami,Kiteboarding,326
+Miami,Parasailing,413
+Miami,Local Fish Stores,347
+Miami,Beach Equipment Rentals,64
+Miami,Snorkeling,525
+Miami,Snorkeling,525
+Miami,Bubble Soccer,100
+Miami,Snorkeling,525
+Miami,Scooter Rentals,498
+Miami,Flyboarding,230
+Miami,Aquarium Services,21
+Miami,Local Fish Stores,347
+Miami,Flyboarding,230
+Miami,Skydiving,521
+Miami,Snorkeling,525
+Miami,Water Parks,621
+Miami,Snorkeling,525
+Miami,Boat Dealers,80
+Miami,Nail Salons,387
+Miami,Boat Dealers,80
+Miami,Snorkeling,525
+Miami,Skydiving,521
+Miami,Motorcycle Dealers,376
+Miami,Scooter Rentals,498
+Miami,Flyboarding,230
+Miami,Snorkeling,525
+Miami,Scooter Rentals,498
+Miami,Skydiving,521
+Miami,Scooter Rentals,498
+Miami,Boat Dealers,80
+Miami,Scooter Rentals,498
+Miami,Vacation Rentals,600
+Miami,Motorcycle Dealers,376
+Miami,Scooter Rentals,498
+Miami,Beach Equipment Rentals,64
+Miami,Parasailing,413
+Miami,Parasailing,413
+Miami,Golf Cart Rentals,256
+Miami,Parasailing,413
+Miami,Local Fish Stores,347
+Miami,Aquarium Services,21
+Miami,Parasailing,413
+Miami,Kiteboarding,326
+Miami,Scooter Rentals,498
+Miami,Parasailing,413
+Miami,Water Parks,621
+Miami,Local Fish Stores,347
+Miami,Vacation Rentals,600
+Miami,Water Parks,621
+Miami,Snorkeling,525
+Miami,Parasailing,413
+Miami,Pawn Shops,424
+Miami,Flyboarding,230
+Miami,Diving,197
+Miami,Parasailing,413
+Miami,Beach Equipment Rentals,64
+Miami,Water Parks,621
+Miami,Water Parks,621
+Miami,Beach Equipment Rentals,64
+Miami,Racing Experience,476
+Miami,Hot Tub & Pool,295
+Miami,Flyboarding,230
+Miami,Hostels,291
+Miami,Parasailing,413
+Miami,Motorcycle Dealers,376
+Miami,Scooter Rentals,498
+Miami,Beach Equipment Rentals,64
+Miami,Beach Equipment Rentals,64
+Miami,Parasailing,413
+Miami,Airsoft,13
+Miami,Beach Equipment Rentals,64
+Miami,Parasailing,413
+Miami,Kiteboarding,326
+Miami,Parasailing,413
+Miami,Water Parks,621
+Miami,Boat Dealers,80
+Miami,Parasailing,413
+Miami,Beach Equipment Rentals,64
+Miami,Kiteboarding,326
+Miami,Boat Dealers,80
+Miami,Flyboarding,230
+Miami,Champagne Bars,130
+Miami,Bartenders,59
+Miami,Sardinian,495
+Miami,Nicaraguan,392
+Miami,Champagne Bars,130
+Miami,Moroccan,375
+Miami,Piercing,442
+Miami,Art Consultants,30
+Miami,Wedding Chapels,623
+Miami,Piercing,442
+Miami,Resorts,485
+Miami,Piercing,442
+Miami,Herbal Shops,276
+Miami,"Books, Mags, Music & Video",85
+Miami,Basque,62
+Miami,Nicaraguan,392
+Miami,Nicaraguan,392
+Miami,Nicaraguan,392
+Miami,Nicaraguan,392
+Miami,Nicaraguan,392
+Miami,Nicaraguan,392
+Miami,Nicaraguan,392
+Miami,Nicaraguan,392
+Miami,Nicaraguan,392
+Miami,Moroccan,375
+Miami,Moroccan,375
+Miami,Moroccan,375
+Miami,Moroccan,375
+Miami,Moroccan,375
+Miami,Moroccan,375
+Miami,Moroccan,375
+Miami,Moroccan,375
+Miami,Moroccan,375
+Miami,Moroccan,375
+Miami,Moroccan,375
+Miami,Moroccan,375
+Miami,Moroccan,375
+Miami,Moroccan,375
+Miami,Moroccan,375
+Miami,Moroccan,375
+Miami,Moroccan,375
+Miami,Moroccan,375
+Miami,Moroccan,375
+Miami,Moroccan,375
+Miami,Piercing,442
+Miami,Art Consultants,30
+Miami,Religious Items,484
+Miami,Sunglasses,551
+Miami,Wedding Chapels,623
+Miami,Piercing,442
+Miami,Outdoor Movies,403
+Miami,Piercing,442
+Miami,Churches,145
+Miami,Racing Experience,476
+Miami,Animal Shelters,18
+Miami,Resorts,485
+Miami,Piercing,442
+Miami,Herbal Shops,276
+Miami,"Books, Mags, Music & Video",85
+Miami,Ferries,219
+Miami,Flyboarding,230
+Miami,Ferries,219
+Miami,Vacation Rentals,600
+Miami,Champagne Bars,130
+Miami,Bartenders,59
+Miami,Sardinian,495
+Miami,Nicaraguan,392
+Miami,Champagne Bars,130
+Miami,Moroccan,375
+NewYork,Georgian,248
+NewYork,Australian,44
+NewYork,Scottish,500
+NewYork,Georgian,248
+NewYork,Sicilian,513
+NewYork,Malaysian,354
+NewYork,Public Art,466
+NewYork,Fondue,231
+NewYork,Vermouth Bars,606
+NewYork,South African,532
+NewYork,Trivia Hosts,594
+NewYork,Georgian,248
+NewYork,Australian,44
+NewYork,Scottish,500
+NewYork,Georgian,248
+NewYork,Sicilian,513
+NewYork,Malaysian,354
+NewYork,Public Art,466
+NewYork,Fondue,231
+NewYork,Malaysian,354
+NewYork,Vermouth Bars,606
+NewYork,South African,532
+NewYork,Georgian,248
+NewYork,Bangladeshi,53
+NewYork,Bangladeshi,53
+NewYork,Bangladeshi,53
+NewYork,Georgian,248
+NewYork,Slovakian,523
+NewYork,Japanese Curry,315
+NewYork,Georgian,248
+NewYork,Armenian,28
+NewYork,Malaysian,354
+NewYork,Bangladeshi,53
+NewYork,Malaysian,354
+NewYork,Buddhist Temples,102
+NewYork,Buddhist Temples,102
+NewYork,Trivia Hosts,594
+NewYork,Trivia Hosts,594
+NewYork,Badminton,50
+NewYork,Language Schools,336
+NewYork,Ski Resorts,518
+NewYork,Georgian,248
+NewYork,Bangladeshi,53
+NewYork,Bangladeshi,53
+NewYork,Georgian,248
+NewYork,Bangladeshi,53
+NewYork,Pedicabs,425
+NewYork,Pedicabs,425
+NewYork,Pedicabs,425
+NewYork,Pedicabs,425
+NewYork,Club Crawl,153
+NewYork,Sommelier Services,529
+NewYork,Bus Stations,107
+NewYork,Whale Watching Tours,625
+NewYork,Georgian,248
+NewYork,Australian,44
+NewYork,Club Crawl,153
+NewYork,Scottish,500
+NewYork,Georgian,248
+NewYork,Sicilian,513
+NewYork,Malaysian,354
+NewYork,Public Art,466
+NewYork,Fondue,231
+NewYork,Music Production Services,383
+NewYork,Malaysian,354
+NewYork,Vermouth Bars,606
+NewYork,South African,532
