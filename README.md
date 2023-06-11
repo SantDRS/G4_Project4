@@ -92,3 +92,71 @@ Make sure you have the following dependencies installed:
 6. Once again, we use the .explode(), and .unique() functions to find the unique categories within the merged data frame.
 7. Now that the data frames have been merged we can export merged_df to a folder as a csv. To do that we create a file path to the desired end location, convert the data frame into a CSV and export it using the path created.
 
+## G4_P4_Notebook4_MLvAllData
+In this Notebook we use a Random Forest Classifier to predict cities and their corresponding activities based on a randomly selected set of categories. The code generates a random sample of 25 categories, predicts the city using the trained classifier, and retrieves the top activities for each category in the predicted city. Each time you run the code it will choose a different random set of categories to make a unique prediction. 
+
+### Prerequisites
+Make sure you have the following dependencies installed:
+- import json
+- import os
+- import pandas as pd
+- import pprint as pp
+- import random
+- import requests
+- import time
+- import warnings
+- warnings.simplefilter("ignore")
+- from sklearn.cluster import KMeans
+- from sklearn.preprocessing import LabelEncoder
+- from sklearn.preprocessing import MinMaxScaler
+- from sklearn.preprocessing import StandardScaler
+- from sklearn.ensemble import RandomForestClassifier
+- from sklearn.model_selection import train_test_split
+
+### Usage
+1. Set up your environment and install the required dependencies.
+2. Import merged_df.csv from notebook 3
+3. Remove columns location and coordinates that we don't need for prediction process & rearrange the columns for easier viewing
+4. Check the .info() for the merged_df 
+5. Create city_encoded_data df by copying merged_df
+6. Explode the 'categories' column to create a row for each category listed in categories column
+7. Create label_encoder to encode categories and use in machine learning &   Apply label encoding to the 'categories' column
+8. Write out city_encoded_data to csv
+9. Create city_category_predict_df to avoid breaking city_encoded_data
+10. Random Forest ML Model - All Data - Model Creation
+    - Select X & y and reshape df
+    - Split the data into training and test sets
+    - Create and train the Random Forest Classifier
+11. Train & Test Our Model
+    - Fit the training data to the model
+    - Review the accuracy of the model on the training data
+        - Accuracy on training data of : 0.5381600249950294
+    - Fit the test data to the model
+    - Review the accuracy of the model on the test data
+        - Accuracy on training data of : 0.5457850488525335
+12. Predict the City
+    - Generate a random sample of 25 categories. This process is mean to mimic anyone one persons 25 category selection
+    - Create df for random sample
+    - Assign the readable category names based on random sample of the 25 randomly selected categories above
+    - Print the readable categories being used to predict the city
+    - Predict the city based on the random group of 25 categories
+13. List Experiences Within Predicted City
+    - List top 3 experiences for each category within predicted city 
+    - Set to keep track of predicted cities and their activities
+    - Set to keep track of unique experiences
+    - Get the top activities for each sample category
+        - Convert category back to its name
+        - Create a new activities_data list for each category iteration
+        - Create for loop to iterrow over top_activities
+            - Create a unique experience key
+            - Check if the experience is unique
+            - Create if not in statement to select only unique experiences
+                - Add the experience to the set of unique experiences
+                - Append the predicted activity to the list
+        - Append the activities_data to the predicted_data list for each category
+    - Create a DataFrame from the predicted data
+    - Print the final predicted data DataFrame
+14. Output Predictions to csv: Example Output Snippet
+
+15. Proceed to G4_P4_Notebook5_MLvSelectedData to run a model on unique categories only
+16. Output Predictions to csv - The final predicted data DataFrame can be saved as a CSV file using the following pathname: `../G4_Project4/Resources/Insights/predicted_df.csv`.
