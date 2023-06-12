@@ -260,8 +260,8 @@ Make sure you have the following dependencies installed:
 
 ### Usage
 1. Set up your environment and install the required dependencies.
-2. Import merged_df that was created in notebook 3.
- 3.Process and organize the merged_df. You will insert a list using, city, name, rating, review count, categories, location, and coordinates.
+2. Import merged_df that was created in notebook 
+3. Process and organize the merged_df. You will insert a list using, city, name, rating, review count, categories, location, and coordinates.
 4. Used merged_df.info to show the dtypes
 5. Make a copy of the merged data frame and name it vr_data
 6. Explode the categories column so that each category is in its own column
@@ -271,5 +271,11 @@ Make sure you have the following dependencies installed:
 ![Screen Shot 2023-06-11 at 2 30 39 PM](https://github.com/SantDRS/G4_Project4/assets/120337088/2c121b04-3e19-4748-b1cf-53741fbd825d)
 
 9.Drop the coordinates column now that it is unnecessary to keep.
+![Screen Shot 2023-06-11 at 2 28 15 PM](https://github.com/SantDRS/G4_Project4/assets/120337088/2e7d9774-6f4f-4758-ade7-27c4892960e1)
+10. Save vr_data to a csv
+11. Pull in selected_unique_categories.csv. Name the data frame ‘selected_unique_cat_df’
+12. Use vr_data to filter out the unique categories.
 
+![Screen Shot 2023-06-11 at 2 31 39 PM](https://github.com/SantDRS/G4_Project4/assets/120337088/440c030b-037c-44ee-8037-488e491eea83)
+13. Save to csv and move to tableau. 
 
