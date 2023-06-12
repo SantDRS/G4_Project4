@@ -272,6 +272,7 @@ Make sure you have the following dependencies installed:
 
 9.Drop the coordinates column now that it is unnecessary to keep.
 ![Screen Shot 2023-06-11 at 2 28 15 PM](https://github.com/SantDRS/G4_Project4/assets/120337088/2e7d9774-6f4f-4758-ade7-27c4892960e1)
+
 10. Save vr_data to a csv
 11. Pull in selected_unique_categories.csv. Name the data frame ‘selected_unique_cat_df’
 12. Use vr_data to filter out the unique categories.
@@ -279,3 +280,5 @@ Make sure you have the following dependencies installed:
 ![Screen Shot 2023-06-11 at 2 31 39 PM](https://github.com/SantDRS/G4_Project4/assets/120337088/440c030b-037c-44ee-8037-488e491eea83)
 13. Save to csv and move to tableau. 
 
+#visulizations
+![Picture1 tab](https://github.com/SantDRS/G4_Project4/assets/120337088/1dffa59d-2e87-4df7-ba57-0276ad4442a2)
