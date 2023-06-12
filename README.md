@@ -285,3 +285,5 @@ Make sure you have the following dependencies installed:
 ![pic2 tab](https://github.com/SantDRS/G4_Project4/assets/120337088/52bcca0e-7fb7-4fcc-a7f5-31bfda2aa5fe)
 ![pic3 tab](https://github.com/SantDRS/G4_Project4/assets/120337088/251918d1-c490-444a-a537-784838badfff)
 
+![pic4 tab](https://github.com/SantDRS/G4_Project4/assets/120337088/59a574f7-73b3-431f-ba55-057df42e89bc)
+![pic5 tab](https://github.com/SantDRS/G4_Project4/assets/120337088/74594d01-b5d6-482d-959e-ac6d7e1988f8)
