@@ -1,58 +1,41 @@
 Sample Category,Predicted City,Experience Name,Rating,Review Count
-Batting Cages,Miami,Swing Kings,5.0,1
-Batting Cages,Miami,AllGolf at CB Smith,3.5,83
-Batting Cages,Miami,Batter's Box - Miami,2.5,15
-Hookah Bars,Miami,Red Buddha Bar & Hookah Lounge,5.0,20
-Hookah Bars,Miami,SoBe Hookah Lounge At Zoi,5.0,6
-Hookah Bars,Miami,Sports Tobacco And More,5.0,6
-"Beer, Wine & Spirits",Miami,Primo Liquors Fine Wine and Cigars,5.0,106
-Italian,Miami,Fratellino,5.0,1589
-Italian,Miami,Mimmo's Mozzarella Italian Market,5.0,154
-Italian,Miami,Rosalia's Kitchen,5.0,113
-Cajun/Creole,Miami,Cajun Boil,4.5,907
-Cajun/Creole,Miami,The Fatty Crab,4.5,412
-Beaches,Miami,Beach and Beyond Picnics,5.0,1
-Beaches,Miami,Haulover Park,4.5,299
-Beaches,Miami,South Pointe Park,4.5,268
-Art Museums,Miami,Musart Boutique,5.0,1
-Art Museums,Miami,Buick Building,5.0,1
-Gastropubs,Miami,Ceviches by Divino,5.0,486
-Gastropubs,Miami,Ceviches Peru Beach,5.0,16
-Gastropubs,Miami,Garden Gastropub,5.0,1
-Parks,Miami,Peace Mound Park,5.0,12
-Parks,Miami,Bill Sadowski Park and Nature Center,5.0,8
-Parks,Miami,Dr Elizabeth Hays Civic Park,5.0,4
-Trainers,Miami,Demetrios Demetriades,5.0,30
-Trainers,Miami,MindBodyDrive In Home Personal Trainer,5.0,15
-Trainers,Miami,Miami Strength And Fitness Club,5.0,13
-Tapas/Small Plates,Miami,LUR,5.0,34
-Tapas/Small Plates,Miami,Pretty Swell,5.0,18
-Tapas/Small Plates,Miami,W XYZ Bar,5.0,3
-Cocktail Bars,Miami,Swizzle Rum Bar & Drinkery,5.0,139
-Cocktail Bars,Miami,Rosalia's Kitchen,5.0,113
-Chicken Wings,Miami,Chernowings,5.0,2
-Chicken Wings,Miami,JT's Sports Bar & Grill,4.5,345
-Japanese,Miami,Momi Market,5.0,36
-Japanese,Miami,Petite Comite,5.0,21
-Japanese,Miami,Kami-koi sushi fusion,5.0,11
-Fishing,Miami,Everglades Nature Tours,5.0,140
-Fishing,Miami,Mack's Fish Camp,5.0,28
-Fishing,Miami,Lady Helen Fishing Charters,5.0,19
-Breakfast & Brunch,Miami,Pikadiyo,5.0,54
-Breakfast & Brunch,Miami,Gala Restaurant & Muse Bar,5.0,13
-Music Venues,Miami,Julia & Henry's,5.0,13
-American (New),Miami,Bolay,5.0,222
-American (New),Miami,Thank You Miami Cocina & Beerhouse,5.0,60
-Bars,Miami,Thank You Miami Cocina & Beerhouse,5.0,60
-Bars,Miami,Julia & Henry's,5.0,13
-Art Galleries,Miami,Art Express Miami by Anwar,5.0,33
-Art Galleries,Miami,Gumbo Limbo Pottery,5.0,15
-Barbeque,Miami,Meat The Veggies,5.0,7
-Barbeque,Miami,BarBQban,5.0,3
-Barbeque,Miami,La Picaña Grill ,5.0,2
-Ramen,Miami,Good Chef Restaurant,5.0,459
-Ramen,Miami,Yume Ramen & Bubble Tea,5.0,7
-Ramen,Miami,GoBistro,4.5,1752
-Ice Cream & Frozen Yogurt,Miami,Morelia Ice Cream Paletas - Coconut Grove,5.0,44
-Ice Cream & Frozen Yogurt,Miami,Morelia Gourmet Paletas - Coral Gables,4.5,449
-Ice Cream & Frozen Yogurt,Miami,Morelia Gourmet Paletas - Wynwood,4.5,236
+Rock Climbing,NewYork,Method Climbing,5.0,8
+Rock Climbing,NewYork,The Gravity Vault - Montclair,5.0,7
+Rock Climbing,NewYork,Central Rock Gym Manhattan,4.5,38
+American (New),NewYork,Silver Light Tavern,5.0,105
+Community Service/Non-Profit,NewYork,Long Island Meditation,5.0,25
+Community Service/Non-Profit,NewYork,New York Irish Center,5.0,4
+Community Service/Non-Profit,NewYork,Prospect Park,4.5,745
+Pizza,NewYork,Scott's Pizza Tours,5.0,371
+Pizza,NewYork,Mercato Roman Pizza,5.0,48
+Delis,NewYork,111 Deli Stop Corp,5.0,29
+Delis,NewYork,Puchu's Grocery and Deli,5.0,20
+Bars,NewYork,Cala Luna,5.0,45
+Bars,NewYork,Phil's,5.0,44
+Coffee & Tea,NewYork,Frozen Cow Ices and Cream,5.0,137
+Coffee & Tea,NewYork,Benvenuti Montclair,5.0,83
+Coffee & Tea,NewYork,Good Vibes Yoga & Kombucha Bar,5.0,30
+Cocktail Bars,NewYork,Crown Alley,5.0,166
+Art Galleries,NewYork,Women of Culture,5.0,6
+Art Galleries,NewYork,Arts and Crafts Beer Parlor,4.5,270
+Dance Schools,NewYork,Dance Reverie - Manhattan,5.0,110
+Dance Schools,NewYork,You Should Be Dancing...!,5.0,77
+Dance Schools,NewYork,Fred Astaire Dance Studio - New York Midtown,5.0,68
+Supernatural Readings,NewYork,Sacred Space Astoria,5.0,7
+Cheesesteaks,NewYork,Olde City Cheesesteaks & Brew ,5.0,13
+Breweries,NewYork,Wild East Brewing Co.,5.0,39
+Breweries,NewYork,Four City Brewing Company,5.0,35
+Performing Arts,NewYork,Improvolution,5.0,23
+Performing Arts,NewYork,Wild Heart Performing Arts Studio,5.0,22
+Performing Arts,NewYork,The Tango Company,5.0,18
+Boating,NewYork,Narwhal Yacht Charters,5.0,262
+Boating,NewYork,Atlantic Yachting,5.0,91
+Boating,NewYork,True Sailing NYC,5.0,13
+Ramen,NewYork,Waikiki Poke & Ramen,5.0,18
+Ramen,NewYork,Zen Ramen & Sushi,4.5,2603
+Sports Bars,NewYork,Five Iron Golf,5.0,65
+Sandwiches,NewYork,Baked by Luigi,5.0,42
+Sandwiches,NewYork,No Pão,5.0,34
+Sandwiches,NewYork,Sloppie Joe's Food Truck,5.0,31
+British,NewYork,The Winslow,4.5,655
+Dive Bars,NewYork,PubKey,5.0,12
