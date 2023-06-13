@@ -28,7 +28,7 @@ Make sure you have the following dependencies installed:
 
 ### Usage
 **Disclaimer: You must insert your created API key everywhere in the code after “Authorization”, replacing the API key already in that line.
-The API limits each call to 50 rows of data, so we use a loop to call up to 1000 rows of data (when available) using a rest between calls to avoid being locked out. Even then, there is a maximum pull limit of 6 a day. So data was pulled over a span of 3 days.  **
+The API limits each call to 50 rows of data, so we use a loop to call up to 1000 rows of data (when available) using a rest between calls to avoid being locked out. Even then, there is a maximum pull limit of 6 a day. So data was pulled over a span of 3 days. Keep in mind if you run all these cells at the same time you run the risk of getting kicked out of the api.  **
 
 1. Set up your environment and install the required dependencies.
 2. Make an API call that calls in categories with its respective parent alias
@@ -51,7 +51,7 @@ The API limits each call to 50 rows of data, so we use a loop to call up to 1000
 6. Proceed to G4_P4_Notebook2_DataCleaning.ipynb
 
 ## G4_P4_Notebook2_DataCleaning
-In this notebook, we work on bringing in the previously made json files and combining them into a single data frame (by city). Where we then cleaned/ manipulated the data frame to best represent the data for our needs. 
+In this notebook, we work on bringing in the previously made json files and combining them into a single data frame (by city). Where we then manually cleaned/ manipulated the data frame to best represent the data for our needs. 
 
 ### Prerequisites 
 Make sure you have the following dependencies installed:
@@ -92,7 +92,7 @@ Make sure you have the following dependencies installed:
 6. Once again, we use the .explode(), and .unique() functions to find the unique categories within the merged data frame.
 7. Now that the data frames have been merged we can export merged_df to a folder as a csv. To do that we create a file path to the desired end location, convert the data frame into a CSV and export it using the path created.
 
-## G4_P4_Notebook4_MLvAllData
+## G4_P4_Notebook4_MLvAllData-Enhanced
 In this Notebook we use a Random Forest Classifier to predict cities and their corresponding activities based on a randomly selected set of categories. The code generates a random sample of 25 categories, predicts the city using the trained classifier, and retrieves the top activities for each category in the predicted city. Each time you run the code it will choose a different random set of categories to make a unique prediction. 
 
 ### Prerequisites
