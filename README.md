@@ -296,7 +296,7 @@ Make sure you have the following dependencies installed:
 https://public.tableau.com/app/profile/dominique.villarreal/viz/Project4full/categoriesxtype?publish=yes
 
 
-#visulizations
+# Visulizations
 ![Picture1 tab](https://github.com/SantDRS/G4_Project4/assets/120337088/1dffa59d-2e87-4df7-ba57-0276ad4442a2)
 ![pic2 tab](https://github.com/SantDRS/G4_Project4/assets/120337088/52bcca0e-7fb7-4fcc-a7f5-31bfda2aa5fe)
 ![pic3 tab](https://github.com/SantDRS/G4_Project4/assets/120337088/251918d1-c490-444a-a537-784838badfff)
@@ -314,7 +314,8 @@ https://public.tableau.com/app/profile/dominique.villarreal/viz/Project4full/cat
 ![pic12 tab](https://github.com/SantDRS/G4_Project4/assets/120337088/b29f4779-a27a-4595-afeb-93666824a356)
 ![pic13 tab](https://github.com/SantDRS/G4_Project4/assets/120337088/5b9cf73f-53c0-415c-a7c4-7cf7390f7f96)
 
-#Conclusion: 
+
+# Conclusion: 
 When conducting data analysis across all categories, the accuracy achieved is  53.82 percent train 54.58 percent test. However, by employing a more focused approach and hand-selecting unique categories, the accuracy significantly improves to  100 percent for train and test. This highlights the importance of unique category filtering in optimizing accuracy and obtaining reliable results. By refining the analysis process and narrowing down the categories, we can unlock valuable insights with a higher degree of precision, empowering decision-making and enabling actionable outcomes. 
 
 
