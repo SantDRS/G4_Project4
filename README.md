@@ -250,7 +250,8 @@ Make sure you have the following dependencies installed:
 4. Output Predictions to csv - The final predicted data DataFrame can be saved as a CSV file using the following pathname: `../G4_Project4/Resources/Insights/predicted_df.csv`.
 5. The End of Notebook Model Prep & Processing. Final notebook G4_P4_Notebook6_VisualizationData is only for preparing data formats for visualizations.
 
-## G4_P4_Notebook6_VisualizationData
+
+### G4_P4_Notebook6_VisualizationData
 In this notebook we restructure the data frames to bring back in location and coordinate data to bring in visualizations to create in tableau. 
 ### Prerequisites
 Make sure you have the following dependencies installed:
@@ -278,6 +279,7 @@ Make sure you have the following dependencies installed:
 12. Use vr_data to filter out the unique categories.
 
 ![Screen Shot 2023-06-11 at 2 31 39 PM](https://github.com/SantDRS/G4_Project4/assets/120337088/440c030b-037c-44ee-8037-488e491eea83)
+
 13. Save to csv and move to tableau. 
 14. Once in tableau add in vr_data as your datasource 
 15. Put categories in both columns and rows change columns category to attribute then change rows category to count
