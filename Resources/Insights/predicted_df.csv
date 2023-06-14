@@ -1,41 +1,53 @@
 Sample Category,Predicted City,Experience Name,Rating,Review Count
-Rock Climbing,NewYork,Method Climbing,5.0,8
-Rock Climbing,NewYork,The Gravity Vault - Montclair,5.0,7
-Rock Climbing,NewYork,Central Rock Gym Manhattan,4.5,38
-American (New),NewYork,Silver Light Tavern,5.0,105
-Community Service/Non-Profit,NewYork,Long Island Meditation,5.0,25
-Community Service/Non-Profit,NewYork,New York Irish Center,5.0,4
-Community Service/Non-Profit,NewYork,Prospect Park,4.5,745
-Pizza,NewYork,Scott's Pizza Tours,5.0,371
-Pizza,NewYork,Mercato Roman Pizza,5.0,48
-Delis,NewYork,111 Deli Stop Corp,5.0,29
-Delis,NewYork,Puchu's Grocery and Deli,5.0,20
-Bars,NewYork,Cala Luna,5.0,45
-Bars,NewYork,Phil's,5.0,44
-Coffee & Tea,NewYork,Frozen Cow Ices and Cream,5.0,137
-Coffee & Tea,NewYork,Benvenuti Montclair,5.0,83
-Coffee & Tea,NewYork,Good Vibes Yoga & Kombucha Bar,5.0,30
-Cocktail Bars,NewYork,Crown Alley,5.0,166
-Art Galleries,NewYork,Women of Culture,5.0,6
-Art Galleries,NewYork,Arts and Crafts Beer Parlor,4.5,270
-Dance Schools,NewYork,Dance Reverie - Manhattan,5.0,110
-Dance Schools,NewYork,You Should Be Dancing...!,5.0,77
-Dance Schools,NewYork,Fred Astaire Dance Studio - New York Midtown,5.0,68
-Supernatural Readings,NewYork,Sacred Space Astoria,5.0,7
-Cheesesteaks,NewYork,Olde City Cheesesteaks & Brew ,5.0,13
-Breweries,NewYork,Wild East Brewing Co.,5.0,39
-Breweries,NewYork,Four City Brewing Company,5.0,35
-Performing Arts,NewYork,Improvolution,5.0,23
-Performing Arts,NewYork,Wild Heart Performing Arts Studio,5.0,22
-Performing Arts,NewYork,The Tango Company,5.0,18
-Boating,NewYork,Narwhal Yacht Charters,5.0,262
-Boating,NewYork,Atlantic Yachting,5.0,91
-Boating,NewYork,True Sailing NYC,5.0,13
-Ramen,NewYork,Waikiki Poke & Ramen,5.0,18
-Ramen,NewYork,Zen Ramen & Sushi,4.5,2603
-Sports Bars,NewYork,Five Iron Golf,5.0,65
-Sandwiches,NewYork,Baked by Luigi,5.0,42
-Sandwiches,NewYork,No Pão,5.0,34
-Sandwiches,NewYork,Sloppie Joe's Food Truck,5.0,31
-British,NewYork,The Winslow,4.5,655
-Dive Bars,NewYork,PubKey,5.0,12
+Arcades,Miami,Furia,5.0,1
+Nutritionists,Miami,MindBodyDrive In Home Personal Trainer,5.0,15
+Nutritionists,Miami,Ofri Fitness - Miami,5.0,7
+Nutritionists,Miami,Yes2Yoga,5.0,6
+Cocktail Bars,Miami,Swizzle Rum Bar & Drinkery,5.0,139
+Cocktail Bars,Miami,Rosalia's Kitchen,5.0,113
+Sports Bars,Miami,City Cigar Lounge,5.0,22
+Sports Bars,Miami,Sabor De Cuba Restaurant,5.0,1
+American (New),Miami,Bolay,5.0,222
+American (New),Miami,Thank You Miami Cocina & Beerhouse,5.0,60
+Historical Tours,Miami,Miami Native Tours,5.0,4
+Historical Tours,Miami,Miami Haunts,5.0,1
+Historical Tours,Miami,Ah-Tah-Thi-Ki Museum,4.5,17
+Peruvian,Miami,Ceviches by Divino,5.0,486
+Peruvian,Miami,Tacu Taku,5.0,104
+Peruvian,Miami,Ceviches Peru Beach,5.0,16
+Hot Pot,Miami,Lemongrass Hot Pot,4.5,469
+Hot Pot,Miami,Hi Pot Pembroke Pines,4.5,193
+Hot Pot,Miami,Meet Hot Pot,4.5,55
+Venues & Event Spaces,Miami,The Real Food Academy,5.0,71
+Venues & Event Spaces,Miami,The Social Hub Miami,5.0,27
+Boat Tours,Miami,Everglades Nature Tours,5.0,140
+Boat Tours,Miami,Miami Yachting Company,5.0,61
+Boat Tours,Miami,Intimate Waterway Tours,5.0,55
+Tacos,Miami,The Better Taco,5.0,88
+Tacos,Miami,Tacos Sonora 305,5.0,5
+Tacos,Miami,Tariacuri Tacos ,5.0,4
+Latin American,Miami,Happea's,5.0,115
+Latin American,Miami,Gonzos Empanadas,5.0,88
+Latin American,Miami,Delicias Caribeñas Restaurant,5.0,34
+Modern European,Miami,Marfil Bistro,4.5,373
+Modern European,Miami,Rakija Grill,4.5,73
+Dance Studios,Miami,Florida Dancesport,5.0,14
+Bike tours,Miami,Riverwalk Activities,5.0,3
+Bike tours,Miami,QuickeBike,5.0,2
+Bike tours,Miami,Leafy Bike - Miami,5.0,2
+Tapas/Small Plates,Miami,LUR,5.0,34
+Tapas/Small Plates,Miami,Pretty Swell,5.0,18
+Tapas/Small Plates,Miami,W XYZ Bar,5.0,3
+Pizza,Miami,Blozzom Pizza Moderna Romana ,5.0,88
+Pizza,Miami,Vice City Pizza - West Kendall,5.0,50
+Pizza,Miami,Pizza Nostra,5.0,33
+Jazz & Blues,Miami,Jass Kitchen,4.5,82
+Performing Arts,Miami,Magic Mike Live: The Tour,5.0,64
+Performing Arts,Miami,The Comedy Inn,5.0,27
+Italian,Miami,Fratellino,5.0,1589
+Italian,Miami,Mimmo's Mozzarella Italian Market,5.0,154
+Italian,Miami,Rosalia's Kitchen,5.0,113
+Magicians,Miami,Danny Grant Variety Show,5.0,2
+Cuban,Miami,Pikadiyo,5.0,54
+Cuban,Miami,Kenia Plaza,5.0,10
+Cuban,Miami,Yoas Cafe,5.0,4
