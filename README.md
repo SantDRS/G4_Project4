@@ -279,6 +279,20 @@ Make sure you have the following dependencies installed:
 
 ![Screen Shot 2023-06-11 at 2 31 39 PM](https://github.com/SantDRS/G4_Project4/assets/120337088/440c030b-037c-44ee-8037-488e491eea83)
 13. Save to csv and move to tableau. 
+14. Once in tableau add in vr_data as your datasource 
+15. Put categories in both columns and rows change columns category to attribute then change rows category to count
+16. For the next visual you will use count categories in column and for rows you will insert city and categories as descending. 
+17. For total categories x city you will put city as columns and categories as rows make sure it is measured in count distinct.
+18. In selected categories x city you will put city from vr_data_selected.csv and categories from vr_data_selected as measured count distinct.
+19. For selected categories x type you want to use ve_data_selected. Add categories as count in column and for rows you want to add city, and categories. 
+20. Denver all you will add in columns as longitude and rows as latitude. You will filter out Denver. In tooltip you will add in name, review count, location split 8-1, and location split 8-4 along with raining. You will want to make sure all are under attribute. 
+21. Repeat the same steps as number 20, but change the filter as city fro vr_data_selected. 
+22. Duplicate Denver all twice and filter out to Miami and the next New York.
+23. Duplicate Denver selected twice and filter as well to Miami and the next to New York. 
+
+# Tableau Visualizations 
+https://public.tableau.com/app/profile/dominique.villarreal/viz/Project4full/categoriesxtype?publish=yes
+
 
 #visulizations
 ![Picture1 tab](https://github.com/SantDRS/G4_Project4/assets/120337088/1dffa59d-2e87-4df7-ba57-0276ad4442a2)
